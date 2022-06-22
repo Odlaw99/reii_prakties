@@ -1,0 +1,25 @@
+{
+    "editor.detectIndentation": false,
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2,
+    "files.eol": "\r\n",
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "eslint.format.enable": true,
+    "terminal.integrated.enablePersistentSessions": false,
+    "[typescript]": {
+      "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[dart]": {
+      "editor.defaultFormatter": "Dart-Code.dart-code"
+    },
+    "dart.lineLength": 120,
+    "[html]": {
+      "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[json]": {
+      "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[vue]": {
+      "editor.defaultFormatter": "Vue.volar"
+    },
+  }
